@@ -6,7 +6,7 @@ Z大自从做了终极版Tesla，现在已经比原版还要好用，底座模�
 
 管理Tesla插件的确没有管理相册NRO软件那样直接替换一个nro那么简单，但是莱莱折腾Tesla以后并不觉得有什么门槛，都是很基础的折腾方法。
 
-一，纯净Tesla的组件和原版下载地址
+# 一，纯净Tesla的组件和原版下载地址
 
 想玩Tesla插件，必定要有下面三个组件，其它的所有ovl插件都要基于这三个组件才能工作。
 
@@ -28,7 +28,7 @@ https://www.tekqart.com/thread-222735-1-1.html
 
 https://github.com/zdm65477730
 
-二，纯净Tesla的组件文件名和路径
+# 二，纯净Tesla的组件文件名和路径
 
 （1）nx-ovlloader，Tesla启动器
 
@@ -62,7 +62,7 @@ tf：switch/.overlays/lang/Sysmodules/，是Tesla系统管理的多国语言包
 
 tf：config/ovl-sysmodules/config.ini，是Tesla系统管理菜单里功能的显示和隐藏，建议显示
 
-三，其它常用的ovl插件和路径
+# 三，其它常用的ovl插件和路径
 
 莱莱整合和搬运了Z大佬的终极版特斯拉，这里先教小伙伴们了解常用的ovl插件
 
