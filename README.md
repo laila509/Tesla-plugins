@@ -138,4 +138,4 @@ tf：config/MissionControl，missioncontrol设定文件，默认或删除都可�
 
 Tesla以后也要跟着大气层和SW系统更新，所以首先更新核心组件，再更新其它的ovl插件，Beyond Compare(文件对比工具)来对比更新文件就非常简单
 
-<img src="https://GitHub.com/laila509/Tesla-plugins/blob/master/beyondcompare.jpg?raw=true" align="center" width="80%" /> 
+<img src="https://github.com/laila509/Tesla-plugins/blob/main/beyondcompare.jpg?raw=true?raw=true" align="center" width="80%" /> 
