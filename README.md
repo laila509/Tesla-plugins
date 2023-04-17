@@ -133,3 +133,7 @@ tf：config/MissionControl，missioncontrol设定文件，默认或删除都可�
 这里还可以管理其它的启动器是否启动，这个和ovlSysmodules也提供一样的管理功能。
 
 在后台管理各种启动器ON或者OFF后，要先按一次B键，再按一次Home键保存返回主界面，然后重启Switch。
+
+# 四，更新的利器，Beyond Compare(文件对比工具)
+
+Tesla以后也要跟着大气层和SW系统更新，所以首先更新核心组件，再更新其它的ovl插件，Beyond Compare(文件对比工具)来对比更新文件就非常简单
